@@ -20,6 +20,12 @@ We reserve the exclusive right to update, amend, change, republish, or revise th
 * All cookie operations occur locally in the user's browser.
 * The Extension does not save, transmit, or analyze logins, passwords, API keys, transaction history, or any other personal data.
 
+## Data Processing Operations
+
+* Data is accessed locally on the user's device only upon his direct interaction with the Extension and the respective service it automates. The Extension does not run any background processes that collect data outside the user-initiated session.
+* All data is used exclusively locally within the user's browser to provide the core automation functionality. This includes using authentication tokens to create secure sessions with the third-party service API and transmitting necessary transaction details solely to execute the user commands.
+* Any data transmission occurs directly from the user's browser to the API servers of the third-party service where the automation takes place. This is a direct client-to-API-server connection. We do not have any intermediary servers that receive, store, or process this user data.
+
 ## No Data Collection
 
 * The Extension does not connect to third-party servers, except for the HTX exchange API as part of its automation functionality.
@@ -38,9 +44,13 @@ We reserve the exclusive right to update, amend, change, republish, or revise th
 
 ## Data Sharing and Disclosure
 
-* Connection data is shared only between peers involved in a session and is not stored or accessed by us.
-* We do not sell or rent user data to third parties.
+* User data is shared solely with the API of the third-party service where the automation is performed. This sharing is necessary for the fundamental functionality of the Extension and is done directly from the user's browser without passing through our infrastructure.
+* We do not sell, rent, or otherwise share user data with any other third parties, including advertisers, data brokers, or other service providers.
 * Data may be disclosed if required by law or in response to valid legal requests.
+
+## Third-Party Data Recipients
+
+The only external party that receives user data as a result of using the Extension is the third-party service on which the automation operates, via its public API. The data sharing is a direct interaction between the user's browser and the API servers of that service.
 
 ## Data Security
 
