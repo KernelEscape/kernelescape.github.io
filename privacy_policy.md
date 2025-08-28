@@ -77,7 +77,7 @@ We may update this Policy periodically to reflect changes in our practices or le
 
 ## Contact & Communication
 
-Users contacting this website and/or its owners do so at their own discretion and provide any such personal details requested at their own risk. Your personal information is kept private and stored securely until a time it is no longer required or has no use, as detailed in the Data Protection Act 1998. Every effort has been made to ensure a safe and secure form-to-email submission process, but we advise users using such form-to-email processes that they do so at their own risk.
+Users contacting this website or its owners do so at their own discretion and provide any such personal details requested at their own risk. Your personal information is kept private and stored securely until a time it is no longer required or has no use, as detailed in the Data Protection Act 1998. Every effort has been made to ensure a safe and secure form-to-email submission process, but we advise users using such form-to-email processes that they do so at their own risk.
 
 The Extension and its owners use any information submitted to provide you with further information about the products and services they offer or to assist you in answering any questions or queries you may have submitted. Your details are not passed on to any third parties.
 
