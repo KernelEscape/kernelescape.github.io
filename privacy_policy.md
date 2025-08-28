@@ -6,7 +6,7 @@ permalink: /privacy-policy/
 
 ## General Information
 
-The **P2P Extension** (hereinafter referred to as the «Extension») is designed to automate P2P arbitrage on the HTX cryptocurrency exchange. The Extension uses the user's cookies solely for authentication on HTX and **does not collect, store, or transmit any personal user data**.
+The **P2P Extension** (hereinafter referred to as the «Extension») is designed to automate P2P arbitrage on the cryptocurrency exchange. The Extension uses the user's cookies solely for authentication on the cryptocurrency exchange and **does not collect, store, or transmit any personal user data**.
 
 This Privacy Policy (hereinafter referred to as the «Policy») describes how we collect and use your personal data. «Personal data» in this Policy means any information that can directly or indirectly identify you, whether alone or combined, like your name, email, username, contact details, IP address, device ID, or other online identifiers. We fully acknowledge the importance of the above personal data to you and truly appreciate your trust when using Extension services. This Policy will be used to inform you how the P2P collects, stores, protects, and shares your data, as well as to clearly define your rights.
 
@@ -16,7 +16,7 @@ We reserve the exclusive right to update, amend, change, republish, or revise th
 
 ## What Data is Processed?
 
-* The Extension uses cookies required for authentication on the HTX website.
+* The Extension uses cookies required for authentication on the cryptocurrency exchange website.
 * All cookie operations occur locally in the user's browser.
 * The Extension does not save, transmit, or analyze logins, passwords, API keys, transaction history, or any other personal data.
 
@@ -28,7 +28,7 @@ We reserve the exclusive right to update, amend, change, republish, or revise th
 
 ## No Data Collection
 
-* The Extension does not connect to third-party servers, except for the HTX exchange API as part of its automation functionality.
+* The Extension does not connect to third-party servers, except for the cryptocurrency exchange exchange API as part of its automation functionality.
 * The Extension code contains no analytics, trackers, or data collection systems.
 * The Extension does not require registration and does not link user activity to their identity.
 * We do not collect personally identifiable information unless explicitly provided by the user (during registration or support requests).
