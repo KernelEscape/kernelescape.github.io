@@ -28,7 +28,7 @@ We reserve the exclusive right to update, amend, change, republish, or revise th
 
 ## No Data Collection
 
-* The Extension does not connect to third-party servers, except for the cryptocurrency exchange exchange API as part of its automation functionality.
+* The Extension does not connect to third-party servers, except for the cryptocurrency exchange API as part of its automation functionality.
 * The Extension code contains no analytics, trackers, or data collection systems.
 * The Extension does not require registration and does not link user activity to their identity.
 * We do not collect personally identifiable information unless explicitly provided by the user (during registration or support requests).
